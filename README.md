@@ -13,7 +13,7 @@ Este é um sistema de recomendação de livros baseado em descrições dos livro
 
 ## Dataset Utilizado
 
-O sistema utiliza o dataset [**Books Dataset**](https://www.kaggle.com/datasets/victorstein/livros-skoob), que contém informações sobre livros, como título, autor, ano de publicação, número de páginas, idioma, avaliação e descrição. Este dataset foi utilizado para criar o modelo de recomendação baseado nas descrições dos livros.
+O sistema utiliza o dataset [**Livros Skoob**](https://www.kaggle.com/datasets/victorstein/livros-skoob), que contém informações sobre livros, como título, autor, ano de publicação, número de páginas, idioma, avaliação e descrição. Este dataset foi utilizado para criar o modelo de recomendação baseado nas descrições dos livros.
 
 ## Funcionalidades
 
