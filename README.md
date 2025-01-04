@@ -22,5 +22,5 @@ O sistema utiliza o dataset [**Books Dataset**](https://www.kaggle.com/datasets/
 - **Pré-processamento de texto**: O sistema realiza a limpeza e transformação das descrições dos livros para otimizar as recomendações.
 
 ## Documentação
-A documentação completa do projeto está disponível em [https://drive.google.com/file/d/1ciAShS0I6meRn5c_z2vTQ-CRCAuP7K-4/view?usp=drive_link], onde você pode encontrar detalhes sobre a arquitetura, fluxo de dados e explicações sobre as técnicas utilizadas para implementar o sistema de recomendação.
+A documentação completa do projeto está disponível em [**Documentação**](https://drive.google.com/file/d/1ciAShS0I6meRn5c_z2vTQ-CRCAuP7K-4/view?usp=drive_link), onde você pode encontrar detalhes sobre a arquitetura, fluxo de dados e explicações sobre as técnicas utilizadas para implementar o sistema de recomendação.
 
