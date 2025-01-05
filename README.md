@@ -5,7 +5,6 @@ Este é um sistema de recomendação de livros baseado em descrições dos livro
 ## Tecnologias Utilizadas
 
 - **Python** (versão 3.x)
-- **Flask**: Framework web para construir a aplicação.
 - **Scikit-learn**: Para implementação do modelo de recomendação com TF-IDF e similaridade de cosseno.
 - **Pandas**: Manipulação de dados.
 - **Numpy**: Para operações numéricas.
